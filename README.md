@@ -35,7 +35,9 @@ Usage:
 
 3. Enter the YouTube Video URL in the text box and click the ***Download*** button.
 
-#4.It will take some time to download the video depending on the video size, video quality and your network connectivity. The downloader looks for the best possible video quality and downloads that for you. 😉
+  
+4. It will take some time to download the video depending on the video size, video quality and your network connectivity. The downloader looks for the best possible video quality and downloads that for you. 
+ 
 
 5.After the download is complete, a dialog with a message will pop-up:
 
@@ -73,4 +75,4 @@ Using the .exe:
 4. Follow steps *4-7* mentioned in the *Usage* section.
 
 
-# !!YOU WILL BE ABLE TO DOWNLOAD ANY YOUTUTBE VIDEO IN ANY QUALITY.!! 
+# !!YOU WILL BE ABLE TO DOWNLOAD ANY YOUTUBE VIDEO IN ANY QUALITY.!! 
