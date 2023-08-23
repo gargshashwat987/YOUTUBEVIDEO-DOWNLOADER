@@ -33,6 +33,7 @@ Usage:
 
 
 3. Enter the YouTube Video URL in the text box and click the ***Download*** button.
+
 4.It will take some time to download the video depending on the video size, video quality and your network connectivity. The downloader looks for the best possible video quality and downloads that for you. 😉
 
 5.After the download is complete, a dialog with a message will pop-up:
