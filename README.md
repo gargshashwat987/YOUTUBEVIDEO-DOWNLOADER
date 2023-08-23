@@ -22,7 +22,8 @@ This library comes bundled with Python!
 Usage:
 1.Clone this repository in your desired directory.
 
-2.Run the command: python python_youtube_downloader.py and a simple GUI will pop-up:
+
+#2.Run the command: python python_youtube_downloader.py and a simple GUI will pop-up:
 
 
 
@@ -34,7 +35,7 @@ Usage:
 
 3. Enter the YouTube Video URL in the text box and click the ***Download*** button.
 
-4.It will take some time to download the video depending on the video size, video quality and your network connectivity. The downloader looks for the best possible video quality and downloads that for you. 😉
+#4.It will take some time to download the video depending on the video size, video quality and your network connectivity. The downloader looks for the best possible video quality and downloads that for you. 😉
 
 5.After the download is complete, a dialog with a message will pop-up:
 
