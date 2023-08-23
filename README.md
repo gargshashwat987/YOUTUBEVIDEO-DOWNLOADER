@@ -28,7 +28,7 @@ Usage:
 
 
 
-<img width="193" alt="5" src="https://github.com/gargshashwat987/YOUTUBEVIDEO-DOWNLOADER/assets/124812421/f26f18a1-3635-4094-8a73-281caf9347fe">
+<img width="250" alt="5" src="https://github.com/gargshashwat987/YOUTUBEVIDEO-DOWNLOADER/assets/124812421/f26f18a1-3635-4094-8a73-281caf9347fe">
 
 
 
@@ -41,7 +41,7 @@ Usage:
 
 
 
-<img width="108" alt="6" src="https://github.com/gargshashwat987/YOUTUBEVIDEO-DOWNLOADER/assets/124812421/a88652d0-3326-48c3-b701-9705dc73d02b">
+<img width="250" alt="6" src="https://github.com/gargshashwat987/YOUTUBEVIDEO-DOWNLOADER/assets/124812421/a88652d0-3326-48c3-b701-9705dc73d02b">
 
 
 
@@ -52,7 +52,7 @@ NOTE: If you enter an invalid link, the following error message will show up:
 
 
 
-<img width="164" alt="7" src="https://github.com/gargshashwat987/YOUTUBEVIDEO-DOWNLOADER/assets/124812421/1df7d5ac-d20b-4d9c-9587-850c1174f870">
+<img width="250" alt="7" src="https://github.com/gargshashwat987/YOUTUBEVIDEO-DOWNLOADER/assets/124812421/1df7d5ac-d20b-4d9c-9587-850c1174f870">
 
 
 
@@ -66,7 +66,7 @@ Using the .exe:
 
 
 
-<img width="349" alt="8" src="https://github.com/gargshashwat987/YOUTUBEVIDEO-DOWNLOADER/assets/124812421/421b3340-75b0-42e8-a2e2-336d1fa17352">
+<img width="500" alt="8" src="https://github.com/gargshashwat987/YOUTUBEVIDEO-DOWNLOADER/assets/124812421/421b3340-75b0-42e8-a2e2-336d1fa17352">
 
 
 
